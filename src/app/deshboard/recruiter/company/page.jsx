@@ -9,7 +9,6 @@ const CompanyPage = async () => {
     console.log('User info', user);
 
     const company = await getRecruiterCompany(user?.id);
-    
 
     return (
         <div>

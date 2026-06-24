@@ -198,8 +198,8 @@ export default Navbar;
 
 const navLinks = [
   { label: "Browse Jobs", href: "/jobs" },
-  { label: "Company", href: "/company" },
-  { label: "Pricing", href: "/pricing" },
+  { label: "Company", href: "/companies" },
+  { label: "Pricing", href: "/plans" },
   { label: "Sign In", href: "/signin" },
   { label: "Get Started", href: "/signup" },
 ];
